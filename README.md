@@ -1,4 +1,4 @@
-### Hi there, I'm [Louis][louis-cf-lin.github.io] 👋
+### Hi there, I'm [Louis][website] 👋
 
 ### Connect with me:
 
@@ -15,23 +15,9 @@
 ### ▶️ Louii Studios
 
 <!-- YOUTUBE:START -->
-- [A Gift.](https://youtu.be/frJ9vcRYlkI)
-- [Three Six Five // Taupo](https://youtu.be/LskvzorGJNg)
-- [Waiuku Forest // Waikato](https://youtu.be/dm4FYWFYe3k)
-- [Whangamata // Coromandel](https://youtu.be/kOsAMs5WKCY)
-- [Top VS Code Updates | v1.50 Released!! | Tips & Tricks 2020](https://www.youtube.com/watch?v=WYIelDSS738)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/user/LouiiL)
-
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Louii's GitHub Stats" src="https://github-readme-stats.louis-cf-lin.vercel.app/api?username=louis-cf-lin&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: louis-cf-lin.github.io
 [twitter]: https://twitter.com/Louii_L
