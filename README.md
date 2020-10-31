@@ -15,6 +15,11 @@
 ### ▶️ Louii Studios
 
 <!-- YOUTUBE:START -->
+- [MSP 2020 // Audax](https://www.youtube.com/watch?v=HCc74OFmLL4)
+- [A Gift.](https://www.youtube.com/watch?v=frJ9vcRYlkI)
+- [Three Six Five // Taupo](https://www.youtube.com/watch?v=LskvzorGJNg)
+- [Waiuku Forest // Waikato](https://www.youtube.com/watch?v=dm4FYWFYe3k)
+- [Whangamata // Coromandel](https://www.youtube.com/watch?v=kOsAMs5WKCY)
 <!-- YOUTUBE:END -->
 
 ---
