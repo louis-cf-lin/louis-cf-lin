@@ -19,6 +19,8 @@
 
 ---
 
+<img align="left" alt="Louis' Github Stats" src="https://github-readme-stats.vercel.app/api?username=louis-cf-lin">
+
 [website]: louis-cf-lin.github.io
 [twitter]: https://twitter.com/Louii_L
 [youtube]: https://www.youtube.com/user/LouiiL
