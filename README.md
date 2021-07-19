@@ -3,8 +3,6 @@
 <br />
 <br />
 
----
-
 ### ▶️ Louii Studios
 
 <!-- YOUTUBE:START -->
@@ -15,7 +13,8 @@
 - [Whangamata // Coromandel](https://www.youtube.com/watch?v=kOsAMs5WKCY)
 <!-- YOUTUBE:END -->
 
----
+<br />
+<br />
 
 <img align="left" alt="Louis' Github Stats" src="https://github-readme-stats.vercel.app/api?username=louis-cf-lin&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=191919">
 
