@@ -1,7 +1,9 @@
 ### Hi, I'm Louis 🤓
 
-🎞 I like film and videography
+🎞 Film & videography
 
-🌊 I like pink skies over the ocean
+🌊 Pink sky oceans
 
-🏔 I like snow peaks
+🏔 Powdered peaks
+
+🚀 Milky Way lane
