@@ -1,6 +1,6 @@
 ### Hi, I'm Louis 🤓
 
-- 🎞 Film & videography
+- 🎞 35mm grain
 - 🌊 Pink sky oceans
 - 🏔 Powdered peaks
 - 🚀 Milky Way lane
