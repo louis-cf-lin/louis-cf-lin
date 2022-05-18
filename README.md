@@ -1,9 +1,9 @@
 ### Hi, I'm Louis 🤓
 
-🎞 Film & videography
+- 🎞 Film & videography
 
-🌊 Pink sky oceans
+- 🌊 Pink sky oceans
 
-🏔 Powdered peaks
+- 🏔 Powdered peaks
 
-🚀 Milky Way lane
+- 🚀 Milky Way lane
